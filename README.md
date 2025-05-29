@@ -35,8 +35,8 @@ Segmentation was performed using the following criteria:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](visuals/dashboard_view.png)  
-![Segment Summary](visuals/segment_summary.png)
+customer_segmentation_dashboard.PNG
+
 
 
 ## 🚀 How to Explore
