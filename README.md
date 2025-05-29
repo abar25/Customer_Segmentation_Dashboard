@@ -35,7 +35,7 @@ Segmentation was performed using the following criteria:
 
 ## 📷 Dashboard Preview
 
-customer_segmentation_dashboard.PNG
+
 
 
 
